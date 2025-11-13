@@ -10,4 +10,4 @@
 <img src="https://github.com/muriloleopoldino/wide-coverage-project/blob/main/images/coverage-img.png?raw=true">
 <br><br>
 <h3>📱 Site no mobile:</h3>
-
+<img src="https://github.com/muriloleopoldino/wide-coverage-project/blob/main/images/mobile.png?raw=true">
